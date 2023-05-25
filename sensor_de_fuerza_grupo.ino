@@ -1,3 +1,14 @@
+/*
+Centro Educativo Tecnico Laboral Kinal 
+Taller de electronica y reparacion de computadoras
+Integrantes  
+* Diego Alejandro Culajay Gonzalez - 2019485 
+* Henry Abraham Esquite Matheu - 2021206 
+* Lenin giovanny toc muñoz - 2019363 
+* Jared Hernan Ruiz Anleu - 2022011 
+Codigo Tecnico EB5AM
+Proyecto Silo de granos 
+*/
 // Incluir las bibliotecas necesarias
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
